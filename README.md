@@ -14,7 +14,7 @@
 - S3 버킷 웹사이트 엔드포인트: http://myadvancedbucket.s3-website-us-east-1.amazonaws.com/
 - CloudFrount 배포 도메인 이름: https://d1xu3q58qwoitl.cloudfront.net/
 
-## 주요 링크
+## 주요 개념
 
 1. GitHub Actions과 CI/CD 도구:
    GitHub에서 제공하는 자동화 도구로, 코드 변경 시 자동으로 빌드, 테스트, 배포 등의 작업을 수행합니다. 지속적 통합(CI)과 지속적 배포(CD)를 구현하는 데 사용됩니다.
